@@ -1,4 +1,4 @@
 # Weather-App
 <hr>
-A web application to show the weather of specific location using weather API <br>
-Technologies used : HTML5 <br> CSS <br> Javascript
+<b> A web application to show the weather of specific location using weather API <b> <br>
+<b>Technologies used:<b>   HTML  ||  CSS  ||  Javascript
